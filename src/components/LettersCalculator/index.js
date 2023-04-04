@@ -14,7 +14,7 @@ class LettersCalculator extends Component {
       <div className="bg-container">
         <div className="text-container">
           <h1 className="heading">Calculate the Letters you enter</h1>
-          <label for="inputEl" className="label">
+          <label htmlFor="inputEl" className="label">
             Enter the phrase
           </label>
           <input
